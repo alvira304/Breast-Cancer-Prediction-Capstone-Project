@@ -1,1 +1,1 @@
-# MachineLearning-Projects
+# Breast-Cancer-Prediction-Capstone-Project
